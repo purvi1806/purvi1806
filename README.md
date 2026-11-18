@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Purvi 👋
 
-<!--
-**purvi1806/purvi1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | HTML | CSS | JavaScript | Angular | Shopify
 
-Here are some ideas to get you started:
+I'm a Frontend Developer passionate about building responsive, user-friendly and visually appealing websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- HTML5
+- CSS3
+- JavaScript
+- Angular / AngularJS
+- Shopify
+- Responsive Web Design
+- Git & GitHub
+
+### 💼 Featured Project
+- [Personal Portfolio Website](https://purvi1806.github.io/portfolio/)
+
+### 🎯 Currently
+- Improving my React.js skills
+- Building modern frontend projects
+- Exploring freelance web development opportunities
+
+### 📫 Connect with Me
+- [Portfolio](https://purvi1806.github.io/portfolio/)
+- [GitHub](https://github.com/purvi1806)
